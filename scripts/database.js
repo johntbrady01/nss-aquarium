@@ -56,6 +56,8 @@ const database = {
             image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQz1NHNyn2FW08Rc39mSOeriwduDsoIEPqw&usqp=CAU"
         },
 
+        
+
         {
             id: 6,
             name: "Nemo",
