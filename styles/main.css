@@ -77,8 +77,18 @@
     border-style: solid;
     border-color: black;
     background-color: rgb(47, 223, 194);
-    height: 1485px;
+    height: 1452px;
+
 }
+
+.space {
+    padding-left:.5% ;
+    border-width: 2px;  
+    height: 33px
+
+}
+
+
 
 .travelHeader {
     font-size: 25px;
